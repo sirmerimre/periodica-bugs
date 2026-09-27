@@ -1,0 +1,21 @@
+{
+  "best": {},
+  "save_format": 1,
+  "settings": {
+    "music": 8,
+    "patterns": false,
+    "relaxed": false,
+    "sfx": 7,
+    "skins": {
+      "atom": "classic",
+      "bg": "day",
+      "board": "classic",
+      "filter": "none",
+      "trail": "classic"
+    },
+    "testing": true
+  },
+  "stats": {
+    "noundo_streak": 0
+  }
+}
